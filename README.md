@@ -10,9 +10,9 @@
       <p><strong>Country:</strong> Namibia</p>
       <p><strong>Career:</strong> Programmer, Medical and AI Researcher</p>
       <p><strong>Skills:</strong> Python, JavaScript, C++, HTML, CSS, React, Node.js, Git, Docker, Kubernetes, Ruby, Bash, Perl, Go, SQL.</p>
-      <p><strong>Projects: DNA Database</strong></p>
+      <p><strong>Projects:</strong></p>
       <ul>
-        <li><a href="link_to_project_1">Project 1</a>: Brief description of project 1.</li>
+        <li><a href="https://web.archive.org/web/20180820103055/http://nambilisamuel.com/dna%20collection.htm">National DNA Database</a>: .</li>
         <li><a href="link_to_project_2">Project 2</a>: Brief description of project 2.</li>
       </ul>
       <p><strong>Contact:</strong></p>
