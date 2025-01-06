@@ -1,4 +1,4 @@
-# Namibili Samuel
+# Dr. Namibili Samuel
 
 <table>
   <tr>
