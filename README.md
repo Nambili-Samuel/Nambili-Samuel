@@ -7,6 +7,7 @@
     </td>
     <td style="width: 50%; vertical-align: top;">
       <h2>Summary</h2>
+      <p><strong>Country:</strong> Namibia</p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg" alt="Namibia Flag" style="width: 50px; height: auto;">
       <p><strong>Career:</strong> Programmer, Medical and AI Researcher</p>
       <p><strong>Skills:</strong> Python, JavaScript, C++, HTML, CSS, React, Node.js, Git, Docker, Kubernetes, Ruby, Bash, Perl, Go, SQL.</p>
