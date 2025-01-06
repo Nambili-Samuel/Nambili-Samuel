@@ -7,10 +7,10 @@
     </td>
     <td style="width: 50%; vertical-align: top;">
       <h2>Namibili Samuel</h2>
-      <p><strong>Country:</strong> Your Country</p>
-      <p><strong>Career:</strong> Your Career</p>
-      <p><strong>Skills:</strong> Python, JavaScript, C++, HTML, CSS, React, Node.js, Git, Docker, Kubernetes</p>
-      <p><strong>Projects:</strong></p>
+      <p><strong>Country:</strong> Namibia</p>
+      <p><strong>Career:</strong> Programmer, Medical and AI Researcher</p>
+      <p><strong>Skills:</strong> Python, JavaScript, C++, HTML, CSS, React, Node.js, Git, Docker, Kubernetes, Ruby, Bash, Perl, Go, SQL.</p>
+      <p><strong>Projects: DNA Database</strong></p>
       <ul>
         <li><a href="link_to_project_1">Project 1</a>: Brief description of project 1.</li>
         <li><a href="link_to_project_2">Project 2</a>: Brief description of project 2.</li>
