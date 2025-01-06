@@ -15,11 +15,11 @@
         <li><a href="https://web.archive.org/web/20180820103055/http://nambilisamuel.com/dna%20collection.htm">DNA Database</a>: Is a powerful investigative and identification tool.</li>
         <li><a href="https://github.com/Nambili-Samuel/Face-Recognition">Biometric and Face Recognition</a>: Identification system based on genetic and biodata of a human being.</li>
       </ul>
-      <p><strong>Contact:</strong></p>
+      <p><strong>Connect:</strong></p>
       <ul>
-        <li><a href="https://github.com/Nambili-Samuel">GitHub</a></li>
-        <li><a href="link_to_linkedin_profile">LinkedIn</a></li>
-        <li><a href="link_to_twitter_profile">Twitter</a></li>
+        <li>Email: nambilisamuel@gmail.com</li>
+        <li><a href="https://www.linkedin.com/in/nambilisamuel/">LinkedIn</a></li>
+        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Google Scholar</a></li>
       </ul>
     </td>
   </tr>
