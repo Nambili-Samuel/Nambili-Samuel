@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Animated Header</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-        }
-        .header {
-            width: 100%;
-            max-width: 1200px;
-        }
-    </style>
-</head>
-<body>
-    <div class="header">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxIsCuS0FBIjkFK-49Dw7vw_REJ7Mnqa-SJoIKaGHu5SvgAMTDa1Q82gFnLtUPfNA4I2jVYzvvidMkov8ODGpoYyTnE3m2roFIv2_kR8kWGr4nmEIQ9av51SAkrSDgHbA7d7n4y9eftX8XU8ym92fQCDRSV5SDlFk6bDSblbxyE9yj__KyTPR9R5xyDQ8J/s16000/ai.gif" alt="AI Animated Header" width="100%">
-    </div>
-</body>
-</html>
+![AI Animated Header](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxIsCuS0FBIjkFK-49Dw7vw_REJ7Mnqa-SJoIKaGHu5SvgAMTDa1Q82gFnLtUPfNA4I2jVYzvvidMkov8ODGpoYyTnE3m2roFIv2_kR8kWGr4nmEIQ9av51SAkrSDgHbA7d7n4y9eftX8XU8ym92fQCDRSV5SDlFk6bDSblbxyE9yj__KyTPR9R5xyDQ8J/s16000/ai.gif)
 
 # Dr. Namibili Samuel
 
