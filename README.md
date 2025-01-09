@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="https://s3.ezgif.com/tmp/ezgif-3-61cb4674bd.gif" alt="AI Animated Header" width="100%">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxIsCuS0FBIjkFK-49Dw7vw_REJ7Mnqa-SJoIKaGHu5SvgAMTDa1Q82gFnLtUPfNA4I2jVYzvvidMkov8ODGpoYyTnE3m2roFIv2_kR8kWGr4nmEIQ9av51SAkrSDgHbA7d7n4y9eftX8XU8ym92fQCDRSV5SDlFk6bDSblbxyE9yj__KyTPR9R5xyDQ8J/s16000/ai.gif" alt="AI Animated Header" width="100%">
     </div>
 </body>
 </html>
