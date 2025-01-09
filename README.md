@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="https://github.com/brunotacca/brunotacca/blob/main/images/svg/header_en.svg" alt="AI Animated Header" width="100%">
+        <img src="https://s3.ezgif.com/tmp/ezgif-3-61cb4674bd.gif" alt="AI Animated Header" width="100%">
     </div>
 </body>
 </html>
