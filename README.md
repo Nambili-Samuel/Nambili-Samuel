@@ -1,4 +1,4 @@
-![AI Animated Header](https://github.com/Nambili-Samuel/Nambili-Samuel/blob/main/ai.gif)
+![AI Animated Header](https://github.com/Nambili-Samuel/Artificial-Intelligence/blob/main/AI.gif)
 
 <table>
   <tr>
