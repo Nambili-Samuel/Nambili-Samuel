@@ -15,9 +15,9 @@
         <li><a href="https://web.archive.org/web/20180820103055/http://nambilisamuel.com/dna%20collection.htm">DNA Database</a>: Is a powerful investigative and identification tool.</li>
         <li><a href="https://github.com/Nambili-Samuel/Face-Recognition">Biometric and Face Recognition</a>: Identification system based on genetic and biodata of a human being.</li>
       </ul>
-      <p><strong>Connect:</strong></p>
+      <p><strong>Follow:</strong></p>
       <a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en" target="_blank">
-        <img src="https://www.gstatic.com/images/branding/product/2x/hh_scholar_96dp.png" alt="Google Scholar" style="width: 150px;">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjALW1UbTnOJmgk2-m3rSga9cazdFVG1K8ktDYbKuNtzEUo1Ss8MENTxDgRYS0qPpndTo7Oa1ko8k2RptnEi5pQ8PnQaUXFVhUUWKC5fgiiTSpDKS0BE-S5msf7Pcv9t0HFeIulB6tG60DBGimKQ3s4sXZ_Nc5mKYpoqgS5O0zw_QRuubgy2WTPTyq0Nliu/s1600/google%20scholar.png" alt="Google Scholar" style="width: 150px;">
       </a>
     </td>
   </tr>
