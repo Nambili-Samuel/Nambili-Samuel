@@ -18,8 +18,7 @@
       <p><strong>Connect:</strong></p>
       <ul>
         <li>Email: nambilisamuel@gmail.com</li>
-        <li><a href="https://www.linkedin.com/in/nambilisamuel/">LinkedIn</a></li>
-        <li><a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en">Google Scholar</a></li>
+        <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nambilisamuel) [![Citations](https://img.shields.io/badge/Citations-lightgrey?style=for-the-badge&logo=google-scholar)](link_to_your_citations)</li>
       </ul>
     </td>
   </tr>
