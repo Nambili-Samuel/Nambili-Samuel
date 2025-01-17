@@ -20,7 +20,7 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjALW1UbTnOJmgk2-m3rSga9cazdFVG1K8ktDYbKuNtzEUo1Ss8MENTxDgRYS0qPpndTo7Oa1ko8k2RptnEi5pQ8PnQaUXFVhUUWKC5fgiiTSpDKS0BE-S5msf7Pcv9t0HFeIulB6tG60DBGimKQ3s4sXZ_Nc5mKYpoqgS5O0zw_QRuubgy2WTPTyq0Nliu/s1600/google%20scholar.png" alt="Google Scholar" style="width: 118px;">
       </a>
        <a href="https://www.linkedin.com/in/nambilisamuel/" target="_blank">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Mk6zfF68vldmFmE3q_fMV7BV1Y5PimIj1GFbTkTVSBDSbxgwL7ttCx5BiSxOQSo-hxvb-HaNWjFoqKQFvknEbSllkNepgaXKMRUVFZd0Cu-jpTkKOlzR9Oe5mn7I-8Zvpb-5EbTUCCvU7sOKJ9LhAKt7FqRpgn8NS4vamGsquyP3WUSsqP1ddWtQ5jJC/s16000/Linkedin.png" alt="LinkedIn" style="width: 118px;">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ0kHqOimJVBbr7SIWJ5zFp1nEas1cSjdLtojqFlIVpvyoymTCC97JMBovVMIH3VX_Ed0ifEwW5DbJ86l-Q819t36GKwmXM6RCMmzLYevThOPJXfkBzy_pb9G4AcMlGdhM1t5CUsg0klEmPO9nYBLnzPhzX6HWrebSRc5T4fVQ0nAnZlOFIr63jvjNa0SJ/s1600/Linkedin.png" alt="LinkedIn" style="width: 118px;">
       </a>
     </td>
   </tr>
