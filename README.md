@@ -20,7 +20,7 @@
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjALW1UbTnOJmgk2-m3rSga9cazdFVG1K8ktDYbKuNtzEUo1Ss8MENTxDgRYS0qPpndTo7Oa1ko8k2RptnEi5pQ8PnQaUXFVhUUWKC5fgiiTSpDKS0BE-S5msf7Pcv9t0HFeIulB6tG60DBGimKQ3s4sXZ_Nc5mKYpoqgS5O0zw_QRuubgy2WTPTyq0Nliu/s1600/google%20scholar.png" alt="Google Scholar" style="width: 150px;">
       </a>
        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 150px;">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDlIG9anVZYS9sGC8lLPt8yNPsYkV-PwXDUJaE0LPnBlM_x14sbkyalswGUSBmbF9UxhJ9_HJoFWQBS4zyaI4zuY_8U5s5Up9p5-qbVgKxFGq9R4zmuhpZs_Y4CjDjQWDV65VxX-jEbodtF59xca4UZMVgmrftjPdrwDV0gHib9isbxeYSssOuDj2jPvyC/s1600/Linkedin.png" alt="LinkedIn" style="width: 150px;">
       </a>
     </td>
   </tr>
