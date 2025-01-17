@@ -16,10 +16,7 @@
         <li><a href="https://github.com/Nambili-Samuel/Face-Recognition">Biometric and Face Recognition</a>: Identification system based on genetic and biodata of a human being.</li>
       </ul>
       <p><strong>Connect:</strong></p>
-      <ul>
-        <li>Email: nambilisamuel@gmail.com</li>
-        <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nambilisamuel) [![Citations](https://img.shields.io/badge/Citations-lightgrey?style=for-the-badge&logo=google-scholar)](link_to_your_citations)</li>
-      </ul>
+   [![Citations](https://img.shields.io/badge/Citations-lightgrey?style=for-the-badge&logo=google-scholar)](link_to_your_citations)
     </td>
   </tr>
 </table>
