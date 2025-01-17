@@ -19,7 +19,7 @@
       <a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en" target="_blank">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjALW1UbTnOJmgk2-m3rSga9cazdFVG1K8ktDYbKuNtzEUo1Ss8MENTxDgRYS0qPpndTo7Oa1ko8k2RptnEi5pQ8PnQaUXFVhUUWKC5fgiiTSpDKS0BE-S5msf7Pcv9t0HFeIulB6tG60DBGimKQ3s4sXZ_Nc5mKYpoqgS5O0zw_QRuubgy2WTPTyq0Nliu/s1600/google%20scholar.png" alt="Google Scholar" style="width: 150px;">
       </a>
-       <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+       <a href="https://www.linkedin.com/in/nambilisamuel/" target="_blank">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLt_zguwiOhhyphenhyphenvX-NIGEqjUbTKmlaf3Si9rsWPgeBd95OLetnFYDVmwKLnJZ8uCVvo_yxsir8pgwJ6CgzMpRPNusQCDw2X58qhyP-tUe4fZTTr9bLgxv-VqLmnc5IEOBcsvLfpXgAbrsKmWyisinXA2C_XiOmKUwK8lmiDzH3t4D28UflF8IV6PdFot7OC/s1600/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e.png" alt="LinkedIn" style="width: 150px;">
       </a>
     </td>
