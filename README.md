@@ -19,6 +19,9 @@
       <a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en" target="_blank">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjALW1UbTnOJmgk2-m3rSga9cazdFVG1K8ktDYbKuNtzEUo1Ss8MENTxDgRYS0qPpndTo7Oa1ko8k2RptnEi5pQ8PnQaUXFVhUUWKC5fgiiTSpDKS0BE-S5msf7Pcv9t0HFeIulB6tG60DBGimKQ3s4sXZ_Nc5mKYpoqgS5O0zw_QRuubgy2WTPTyq0Nliu/s1600/google%20scholar.png" alt="Google Scholar" style="width: 150px;">
       </a>
+       <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 150px;">
+      </a>
     </td>
   </tr>
 </table>
