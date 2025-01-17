@@ -17,7 +17,7 @@
       </ul>
       <p><strong>Connect:</strong></p>
       <a href="https://scholar.google.com/citations?user=p2GpjsQAAAAJ&hl=en" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo.png" alt="Google Scholar" style="width: 150px;">
+        <img src="https://www.gstatic.com/images/branding/product/2x/hh_scholar_96dp.png" alt="Google Scholar" style="width: 150px;">
       </a>
     </td>
   </tr>
